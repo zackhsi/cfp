@@ -1,0 +1,1 @@
+Chaos is inevitable. Historically at Lyft, we have been surprised when chaos strikes, and unsure of how our systems will perform (read: fail). Come hear how Lyft has leveraged chaos engineering to tackle system resiliency proactively instead of reactively.
